@@ -4,9 +4,7 @@ import com.hotel.model.Room;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Service class for hotel operations
- */
+
 public class HotelService {
     private List<Room> rooms;
     

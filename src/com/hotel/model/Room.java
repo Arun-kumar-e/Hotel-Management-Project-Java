@@ -1,8 +1,6 @@
 package com.hotel.model;
 
-/**
- * Room model class representing a hotel room
- */
+
 public class Room {
     private int roomNumber;
     private String roomType;

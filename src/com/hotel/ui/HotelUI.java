@@ -5,9 +5,7 @@ import com.hotel.model.Room;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * User interface class for Hotel Management System
- */
+
 public class HotelUI {
     private HotelService hotelService;
     private Scanner scanner;
